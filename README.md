@@ -20,4 +20,6 @@ Mapping Earthquakes with JS &amp; APIs
 
 ## Map to include major earthquake data
 
+![major earthquakes](https://github.com/RebeccaA79/Mapping_Earthquakes/blob/main/Earthquake_Challenge/images/major_earthquake_data_overlay.png)
+
 ## Map showing as a dark image 
