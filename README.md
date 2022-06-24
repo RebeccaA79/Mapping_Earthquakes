@@ -14,4 +14,8 @@ Mapping Earthquakes with JS &amp; APIs
 9. Render maps on a local server.
 
 # Results: 
-## 
+## Map of earthquake data including a tectonic plate overlay
+
+## Map to include major earthquake data
+
+## Map showing as a dark image 
