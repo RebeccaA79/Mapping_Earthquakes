@@ -16,6 +16,8 @@ Mapping Earthquakes with JS &amp; APIs
 # Results: 
 ## Map of earthquake data including a tectonic plate overlay
 
+![tectonic plates](https://github.com/RebeccaA79/Mapping_Earthquakes/blob/main/Earthquake_Challenge/images/earthquake_data_with_tectonic_plate_overlay.png)
+
 ## Map to include major earthquake data
 
 ## Map showing as a dark image 
